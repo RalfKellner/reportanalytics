@@ -25,7 +25,8 @@ dependencies = [
     "hdbscan>=0.8.27",
     "nltk==3.8.1",
     "matplotlib==3.7.0",
-    "dropbox"
+    "dropbox",
+    "jupyter"
 ]
 
 [tool.setuptools.packages.find]
